@@ -5,3 +5,5 @@ Go to this link: https://biopython.org/wiki/Download
 For Linux you can simply use:
 
 pip install biopython
+
+- If this doesn't work Synaptic Package Manager can be used.
