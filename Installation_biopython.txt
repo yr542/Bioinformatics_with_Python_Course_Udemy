@@ -1,0 +1,7 @@
+To download Biopython:
+
+Go to this link: https://biopython.org/wiki/Download
+
+For Linux you can simply use:
+
+pip install biopython
