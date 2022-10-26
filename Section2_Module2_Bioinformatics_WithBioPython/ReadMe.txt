@@ -14,4 +14,4 @@ Notes:
 
 -Each video is either called a video or a subsection. 
 
--I tried to consolidate each subsection into 1 Jupyter Notebook.
+-I tried to consolidate each subsection into 1 Jupyter Notebook. This is different from the instructor who used 1 Jupter Notebook for all the subsections.
