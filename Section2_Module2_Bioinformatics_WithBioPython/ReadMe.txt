@@ -5,3 +5,10 @@ If you need to reconnect to Jupyter Lab simply type the following into terminal 
 
 
 jupyter lab
+
+Notes:
+
+
+-Each video is either called a video or a subsection. 
+
+-I tried to consolidate each subsection into 1 Jupyter Notebook.
