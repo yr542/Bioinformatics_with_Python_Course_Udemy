@@ -21,3 +21,5 @@ Notes:
 Subsections That Have Issues & Cannot Be Uploaded At All/Only In Part:
 
 - 12. BioPython - Checking for Similarity Using DotPlot (defunct code - therefore, it is labeled preface only as it only contains information about the concept - no code)
+- 14. 14. BioPython - Working with 3D Structures (pytraj is defunct - therefore, I only put the preface- which only contains information about the concepts    no actual code 
+  - The new software to be used is mentioned on this site: https://anaconda.org/AmberMD/pytraj
