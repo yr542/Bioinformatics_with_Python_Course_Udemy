@@ -6,6 +6,9 @@ If you need to reconnect to Jupyter Lab simply type the following into terminal 
 
 jupyter lab
 
+
+
+
 Notes:
 
 
