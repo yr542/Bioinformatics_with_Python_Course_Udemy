@@ -20,4 +20,4 @@ Notes:
 
 Subsections That Have Issues & Cannot Be Uploaded At All/Only In Part:
 
-- 12. BioPython - Checking for Similarity Using DotPlot (defunct code)
+- 12. BioPython - Checking for Similarity Using DotPlot (defunct code - therefore, it is labeled preface only as it only contains information about the concept - no code)
